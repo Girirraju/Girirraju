@@ -20,7 +20,7 @@
 ---
 
 ### 🎵 Currently Vibing To  
-[![Spotify Song](https://img.shields.io/badge/Now%20Playing-Way%20Down%20We%20Go%20by%20KALEO-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5nNmj1cLH3r4aA4XDJ2bgY?si=82ce030e0dcd408a)
+[![Spotify Song](https://img.shields.io/badge/Now%20Playing-Way%20Down%20We%20Go%20by%20KALEO-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6)
 
 [![](https://visitcount.itsvg.in/api?id=girirraju&icon=0&color=0)](https://visitcount.itsvg.in)
 

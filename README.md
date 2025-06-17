@@ -1,4 +1,3 @@
-# ✫ About Me:
 👋 Hi, I'm Giriraju<br>A passionate CS engineer from Chennai <br><br>An aspiring full-stack developer & tech explorer, journeying through code, creativity, and curiosity. I’m deeply interested in how AI, IoT, and the Web come together to build the future. With a determined mind and a heart that never stops dreaming, I’m here to learn, build, and grow.<br><br>🌱 I’m currently learning<br><br>Generative AI, Advanced Web Automation, TensorFlow Lite, and AWS EC2/S3<br><br>💬 Ask me about<br><br>Python, JavaScript (Node.js & React), C++, TypeScript<br><br>IoT with Arduino/ESP32, Machine Learning, MySQL & PostgreSQL, Cloud Tools, OOP, DSA, OS, DBMS<br><br>
 
 ## 🌐 Socials:
